@@ -7,7 +7,7 @@
   <img src="asset/Screenshot 2024-06-19 132122.png" alt="Project Screenshot">
 </p>
 
-- 🌱 I’m currently learning **[Wokwi](https://wokwi.com/)** to learn IoT implementation
+- 🌱 I’m currently learning **[Wokwi](https://wokwi.com/projects/400552266132905985)** to learn IoT implementation
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
